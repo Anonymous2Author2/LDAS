@@ -81,4 +81,5 @@ Note that all data has been cleaned and converted to YOLO format labels.
 - TT100K (8.74 GB): [GoogleDrive](https://drive.google.com/file/d/18xjqTSzsfEFaUeYsjCbZtQhBHhspMjWJ/view?usp=sharing)
 
 ## Acknowledgement
-The implementation is based on [YOLOv8](https://github.com/ultralytics/ultralytics). Thanks for their open source code.
+The code implementation is based on [YOLOv8](https://github.com/ultralytics/ultralytics), thanks to their open-source code.
+The data is based on the [VisDrone](https://github.com/VisDrone/VisDrone-Dataset), [BDD100K](https://www.vis.xyz/bdd100k/), and [TT100K](https://cg.cs.tsinghua.edu.cn/traffic-sign/) datasets, thanks to their open-source data.
