@@ -21,7 +21,7 @@ backbone:
   - [-1, 6, C2f, [256, True]]
   - [-1, 1, Conv, [512, 3, 2]]  # 5-P4/16
   - [-1, 6, C2f, [512, True]]
-  - [-1, 1, DAM, [512]]  # 7
+  - [-1, 1, DSPPF, [512]]  # 7
 
 # YOLOv8+LDAS head
 head:

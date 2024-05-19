@@ -11,7 +11,7 @@ import torch.nn as nn
 from ultralytics.yolo.utils.tal import dist2bbox, make_anchors
 from ultralytics.nn.DAM import num_DAM
 
-class DAM(nn.Module):
+class DSPPF(nn.Module):
     # Dynamic Aggregation Mechanism (DAM)
     def __init__(self, c1, c2, k=5, n=num_DAM()):
         super().__init__()
