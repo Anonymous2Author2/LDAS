@@ -1,4 +1,4 @@
-# A Lightweight Dynamic Aggregation Strategy for Small Object Detection
+# A Parameter-Lightweight Dynamic Aggregation Strategy for Small Object Detection
 
 <div align=center>
 <img src="./ultralytics/assets/VisDrone_mAP0.5.png" alt="VisDrone_mAP0.5" width = "549" />
@@ -18,7 +18,7 @@
 | YOLOv8l+LDAS  | TT100K       |         95.0%         |          74.6%           | 29.9M      | [Google Drive](https://drive.google.com/drive/folders/1SgVbEPYPvA-S9UQpOUa5tlJjzVBIdEkF?usp=sharing) |
 
 Table Notes
-- No pre-trained models were used during training.
+- No pre-trained weights were used during training.
 - The input image resolution is 640×640.
 - The training batch size is 16, with a total of 300 training epochs.
 - All other parameters follow the settings of the baseline model.

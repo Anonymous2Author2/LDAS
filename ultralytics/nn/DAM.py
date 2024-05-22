@@ -1,4 +1,4 @@
-# A Lightweight Dynamic Aggregation Strategy (LDAS) for Small Object Detection, GPL-3.0 license
+# A Parameter-Lightweight Dynamic Aggregation Strategy (LDAS) for Small Object Detection, GPL-3.0 license
 """
 Dynamic Aggregation Mechanism (DAM)
 """
